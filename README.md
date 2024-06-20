@@ -7,5 +7,5 @@
           \/        \/            \/     \/     \/ 
 ```
 
-- 👨‍💻 I am a computer enthusiast
-- 🌶️ I enjoy spicy!
+- 👨‍💻 Computer enthusiast
+- 🌶️ Loves spicy food
