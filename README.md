@@ -1,2 +1,1 @@
 - 👨‍💻 Computer enthusiast
-- 🌶️ Loves spicy food
