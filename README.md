@@ -5,8 +5,14 @@
    :summary     "I build reliable software with clarity and intent. Mostly Go. Always curious."
    :focus       ["Systems and backend programming"
                  "Clean, maintainable design"]
-   :tools       ["go" "docker" "git" "linux" "neovim", "claude", "aws", "postgres"]
    :principles  ["Keep it simple." "Keep it fast." "Keep learning."]
+   :languages   ["go" "clojure" "typescript"]
+   :web         ["html" "css", "react"]
+   :ai          ["claude" "opencode"]
+   :platforms   ["aws"]
+   :databases   ["postgres" "mongodb"]
+   :os          ["linux"]
+   :tools       ["neovim" "git" "docker/podman"]
    :links       {"Website"  "https://leinonen.ninja"
                  "LinkedIn" "https://www.linkedin.com/in/peterleinonen/"}})
 ```
