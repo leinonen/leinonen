@@ -13,6 +13,5 @@
    :databases    ["postgres" "mongodb"]
    :os           ["linux"]
    :tools        ["neovim" "git" "docker/podman"]
-   :links        {"Blog" "https://leinonen.ninja"
-                  "LinkedIn" "https://www.linkedin.com/in/peterleinonen/"}})
+   :links        {"Blog" "https://leinonen.ninja"}})
 ```
