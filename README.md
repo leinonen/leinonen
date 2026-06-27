@@ -6,9 +6,9 @@
    :focus        ["Systems and backend programming"
                   "Clean, maintainable design"]
    :principles   ["Keep it simple." "Keep it fast." "Keep learning."]
-   :languages    ["go" "clojure" "typescript"]
+   :languages    ["go" "typescript"]
    :web          ["html" "css", "react"]
-   :ai           ["claude", "gpt" "opencode"]
+   :ai           ["claude code", "chat gpt" "opencode"]
    :hyperscalers ["aws"]
    :databases    ["postgres" "mongodb"]
    :os           ["linux"]
