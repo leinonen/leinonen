@@ -6,12 +6,12 @@
    :focus        ["Systems and backend programming"
                   "Clean, maintainable design"]
    :principles   ["Keep it simple." "Keep it fast." "Keep learning."]
-   :languages    ["go" "typescript"]
+   :languages    ["go" "typescript" "javascript" "lisp"]
    :web          ["html" "css", "react"]
    :ai           ["claude code", "chat gpt" "opencode"]
    :hyperscalers ["aws"]
    :databases    ["postgresql" "mongodb"]
    :os           ["linux"]
-   :tools        ["neovim" "git" "docker/podman"]
+   :tools        ["neovim" "git" "docker/podman" "kubernetes"]
    :links        {"Blog" "https://leinonen.ninja"}})
 ```
