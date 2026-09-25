@@ -1,7 +1,7 @@
 ```clojure
 (def profile
   {:name         "Peter Leinonen"
-   :title        "Computer Enthusiast • Senior Developer"
+   :title        "Senior Developer"
    :summary      "I build reliable software with clarity and intent. Mostly Go. Always curious."
    :focus        ["Systems and backend programming"
                   "Clean, maintainable design"]
@@ -10,7 +10,7 @@
    :web          ["html" "css", "react"]
    :ai           ["claude code", "chat gpt" "opencode"]
    :hyperscalers ["aws"]
-   :databases    ["postgresql" "mongodb"]
+   :databases    ["postgresql" "dynamodb" "mongodb"]
    :os           ["linux"]
    :tools        ["neovim" "git" "docker/podman" "kubernetes"]
    :links        {"Blog" "https://leinonen.ninja"}})
