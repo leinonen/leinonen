@@ -1,24 +1,36 @@
-```clojure
-(def profile
-  {:name         "Peter Leinonen"
-   :title        "Senior Software Developer"
-   :summary      "I build reliable software across the stack, with a focus on backend systems, simplicity, performance, and maintainability. Go is my main language, but I care more about solving the right problem than picking the fashionable tool."
-   :focus        ["Backend and distributed systems"
-                  "Full-stack development"
-                  "APIs and cloud-native services"
-                  "Simple, maintainable architecture"
-                  "Developer tooling and automation"]
-   :principles   ["Keep it simple."
-                  "Make it reliable."
-                  "Measure before optimizing."
-                  "Keep learning."]
-   :languages    ["go" "typescript" "javascript" "lisp"]
-   :web          ["html" "css" "react"]
-   :ai           ["claude code" "chatgpt" "opencode"]
-   :cloud        ["aws"]
-   :databases    ["postgresql" "dynamodb" "mongodb"]
-   :devops       ["github" "github actions" "bitbucket"]
-   :tools        ["git" "neovim" "docker/podman" "kubernetes"]
-   :os           ["linux"]
-   :links        {"Blog" "https://leinonen.ninja"}})
-```
+# Hi, I'm Peter 👋
+
+Senior software developer building reliable software across the stack, with a strong focus on backend systems.
+
+Go is my main language. I care about simple architecture, maintainable code, performance, and choosing the right tool for the problem.
+
+### What I work with
+
+**Backend & languages**  
+Go · TypeScript · JavaScript · Lisp
+
+**Frontend**  
+React · HTML · CSS
+
+**Cloud & infrastructure**  
+AWS · Kubernetes · Docker/Podman · Linux
+
+**Databases**  
+PostgreSQL · DynamoDB · MongoDB
+
+**DevOps & collaboration**  
+Git · GitHub · GitHub Actions · Bitbucket
+
+**AI-assisted development**  
+Claude Code · ChatGPT · OpenCode
+
+### What I care about
+
+- Keep it simple.
+- Make it reliable.
+- Measure before optimizing.
+- Keep learning.
+
+### Elsewhere
+
+📝 **Blog:** https://leinonen.ninja
