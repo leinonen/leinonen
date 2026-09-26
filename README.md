@@ -19,7 +19,7 @@ AWS · Kubernetes · Docker/Podman · Linux
 PostgreSQL · DynamoDB · MongoDB
 
 **DevOps & collaboration**  
-Git · GitHub · GitHub Actions · Bitbucket
+Git · GitHub · GitHub Actions · Bitbucket · GitLab
 
 **AI-assisted development**  
 Claude Code · ChatGPT · OpenCode
